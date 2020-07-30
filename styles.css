@@ -1,7 +1,6 @@
 .header {
   text-align: center;
-  background-color: blue;
-  color: white;
+  border: 5px solid blue;
 }
 
 .main {
