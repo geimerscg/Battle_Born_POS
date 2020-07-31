@@ -5,28 +5,30 @@
 
 .main {
   text-align: center;
-  background-color: blue;
-  color: white;
+  border: 5px solid brown;
+}
+
+.mainArticle {
+  text-align: center;
+  border: 5px solid yellow;
 }
 
 .footer {
   text-align: center;
-  background-color: blue;
-  color: white;
+  border: 5px solid black;
 }
 
-.section1 {
-  background-color: red;
-}
-
-.section2 {
-  background-color: green;
-}
-
-.section3 {
-  background-color: orange;
+.infoBox {
+  text-align: center;
+  border: 5px solid orange;
 }
 
 .contactBox {
-  background-color: purple;
+  text-align: center;
+  border: 5px solid green;
+}
+
+.infoBoxImage {
+  max-width: 100%;
+  height: auto;
 }
